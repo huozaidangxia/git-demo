@@ -1,6 +1,6 @@
 hello git!
 hello my git!
 2222
-33333
-666
+3333
+666  hot-fix test
 hot-fix first update master test
